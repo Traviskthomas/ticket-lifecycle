@@ -37,9 +37,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/Traviskthomas/ticket-lifecycle/assets/166442537/72cead47-c968-49cf-85f0-cae03afab573)
 
--Assignment and Communication:
+- Assignment and Communication:
+
 ![image](https://github.com/Traviskthomas/ticket-lifecycle/assets/166442537/0d2fdaa5-0d84-4c09-9643-499f17fa382e)
+![image](https://github.com/Traviskthomas/ticket-lifecycle/assets/166442537/df7c313d-d8cf-43bf-acbf-ac28d5b0d333)
+![image](https://github.com/Traviskthomas/ticket-lifecycle/assets/166442537/35ef536e-01c2-43f3-9c44-18a6e9b05680)
 
-- Working the Issue:
 
-<br />
+- Working The Issue:
+
+
