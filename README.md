@@ -45,5 +45,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 - Working The Issue:
+![image](https://github.com/Traviskthomas/ticket-lifecycle/assets/166442537/97e23972-d19e-445a-940e-3b98f0e740ef)
+![image](https://github.com/Traviskthomas/ticket-lifecycle/assets/166442537/61c46d48-efdd-4cf7-b704-39a15b7cf97e)
+
+- Resolution:
+![image](https://github.com/Traviskthomas/ticket-lifecycle/assets/166442537/10648e3c-054b-483f-bb44-bb05430caa37)
+
+
+
 
 
